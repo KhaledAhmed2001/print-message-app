@@ -8,3 +8,6 @@
  -create button tag
 
  -create p tag 
+
+ # css
+ make some styles for every element
